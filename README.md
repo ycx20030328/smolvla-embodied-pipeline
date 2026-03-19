@@ -55,7 +55,10 @@ https://github.com/user-attachments/assets/8b4a5536-f3ee-4a9f-b3f1-b1bdcb29b11a
 - `scripts/00_setup_env.sh`: 环境依赖初始化与账号配置。
 - `scripts/01_train_libero.sh`: 解决网络代理与显存泄露的纯净版训练脚本。
 - `scripts/02_eval_libero.sh`: 隔离无头渲染环境的单并发评估脚本。
-
+- `scripts/03_train_pusht.sh`: PushT 数据集的 2D 精细轨迹规划微调脚本。
+- `scripts/04_eval_pusht.sh`: PushT 单并发物理仿真评估脚本。
+- `scripts/05_train_aloha.sh`: 基于国内 HF 镜像加速的 ALOHA/多臂抓取训练脚本。
+- `scripts/06_eval_aloha.sh`: ALOHA 双臂环境仿真评估脚本。
 ## 🛠️ 快速开始
 ```bash
 # 赋予脚本执行权限
