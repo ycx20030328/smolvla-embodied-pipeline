@@ -1,9 +1,15 @@
 # Embodied-VLA-Pipeline: Training SmolVLA on Consumer GPUs
+
 https://github.com/user-attachments/assets/a0682eaa-ebce-41d9-88c6-5dcd5113a451
+
 https://github.com/user-attachments/assets/3f56add5-e58d-4ab3-a005-e93a8f479258
+
 https://github.com/user-attachments/assets/13cd07a0-90d7-4f1a-bcf9-b61b5030ff5a
+
 https://github.com/user-attachments/assets/8429a8b6-be75-4f81-ae20-ad27b78c83a9
+
 https://github.com/user-attachments/assets/dcb37b34-cea7-4605-ade3-dae530978f4d
+
 https://github.com/user-attachments/assets/8b4a5536-f3ee-4a9f-b3f1-b1bdcb29b11a
 
 
