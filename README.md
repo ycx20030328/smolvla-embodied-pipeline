@@ -11,19 +11,19 @@
 ---
 
 ## 🎬 抓取评估演示 (Evaluation Demos)
-*以下视频均为模型在零样本初始化场景下，基于自然语言指令实时推理生成的 7 自由度连续动作控制录像。*
+*以下视频均为模型在零样本初始化场景下，基于自然语言指令实时推理生成的连续动作控制录像。*
 
-**Task: 抓取中间的黑碗 (Spatial Reasoning: Between)**
-> 🗣️ **Language Instruction:** *"pick up the black bowl between the plate and the ramekin and place it on the plate"*
+**Task 1: PushT 数据集 (2D 精细轨迹规划)**
+> 🤖 **Task Description:** *Push the T-shaped block to the target zone (2D Spatial Planning)*
 
 https://github.com/user-attachments/assets/a0682eaa-ebce-41d9-88c6-5dcd5113a451
 
-**Task: 抓取烤钵旁的黑碗 (Spatial Reasoning: Next to)**
-> 🗣️ **Language Instruction:** *"pick up the black bowl next to the ramekin and place it on the plate"*
+**Task 2: 抓取靠近盘子的黑碗 (Spatial Reasoning: Proximity)**
+> 🗣️ **Language Instruction:** *"pick up the black bowl next to the plate and place it on the plate"*
 
 https://github.com/user-attachments/assets/3f56add5-e58d-4ab3-a005-e93a8f479258
 
-**Task: 抓取饼干盒旁的黑碗 (Spatial Reasoning: Object Reference)**
+**Task 3: 抓取饼干盒旁的黑碗 (Spatial Reasoning: Object Reference)**
 > 🗣️ **Language Instruction:** *"pick up the black bowl next to the cookie box and place it on the plate"*
 
 https://github.com/user-attachments/assets/13cd07a0-90d7-4f1a-bcf9-b61b5030ff5a
@@ -32,18 +32,18 @@ https://github.com/user-attachments/assets/13cd07a0-90d7-4f1a-bcf9-b61b5030ff5a
 <summary><b>点击展开查看更多复杂空间抓取任务测试 (Click to expand more demos)</b></summary>
 <br>
 
-**Task: 抓取桌面中心的黑碗 (Spatial Reasoning: Center)**
-> 🗣️ **Language Instruction:** *"pick up the black bowl from table center and place it on the plate"*
+**Task 4: 抓取顶层抽屉的黑碗 (Spatial Reasoning: Inside)**
+> 🗣️ **Language Instruction:** *"pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate"*
 
 https://github.com/user-attachments/assets/8429a8b6-be75-4f81-ae20-ad27b78c83a9
 
-**Task: 抓取木柜上的黑碗 (Spatial Reasoning: On top of)**
-> 🗣️ **Language Instruction:** *"pick up the black bowl on the wooden cabinet and place it on the plate"*
+**Task 5: 抓取烤钵上的黑碗 (Spatial Reasoning: On top of)**
+> 🗣️ **Language Instruction:** *"pick up the black bowl on the ramekin and place it on the plate"*
 
 https://github.com/user-attachments/assets/dcb37b34-cea7-4605-ade3-dae530978f4d
 
-**Task: 抓取盘子旁的黑碗 (Spatial Reasoning: Proximity)**
-> 🗣️ **Language Instruction:** *"pick up the black bowl next to the plate and place it on the plate"*
+**Task 6: 抓取柜子顶层的黑碗 (Spatial Reasoning: Height Reference)**
+> 🗣️ **Language Instruction:** *"pick up the black bowl on the wooden cabinet and place it on the plate"*
 
 https://github.com/user-attachments/assets/8b4a5536-f3ee-4a9f-b3f1-b1bdcb29b11a
 
